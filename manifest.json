@@ -1,0 +1,10 @@
+{
+  "name": "Listing Names",
+  "version": "0.1.0",
+  "description": "Listing names..",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "defualt_title": "Listing Names"
+  }
+}
